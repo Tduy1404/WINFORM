@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vidu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|C:\\vidu\\vidu\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|c:\\vidu\\dal\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|solutionrelative:dal\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63E0E77-C1AC-43E2-A8D1-DD4D261BC3A3}|BLL\\BLL.csproj|c:\\vidu\\bll\\khachhangbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63E0E77-C1AC-43E2-A8D1-DD4D261BC3A3}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63E0E77-C1AC-43E2-A8D1-DD4D261BC3A3}|BLL\\BLL.csproj|c:\\vidu\\bll\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63E0E77-C1AC-43E2-A8D1-DD4D261BC3A3}|BLL\\BLL.csproj|solutionrelative:bll\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|c:\\vidu\\dal\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|solutionrelative:dal\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\usercontrols\\uc_nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|c:\\vidu\\dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0211EB-7CC4-4DBF-865D-5591745F8CCF}|DAL\\DAL.csproj|solutionrelative:dal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|C:\\vidu\\vidu\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\usercontrols\\uc_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\usercontrols\\uc_khachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|C:\\vidu\\vidu\\forms\\form_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\forms\\form_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\forms\\form_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\forms\\form_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\forms\\form_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\forms\\form_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|c:\\vidu\\vidu\\vidu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\vidu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|C:\\vidu\\vidu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8FA878-5FAC-4242-8711-707968313366}|vidu\\vidu.csproj|solutionrelative:vidu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_NhanVien.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_NhanVien.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.cs",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_NhanVien.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:51:45.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_KhachHang.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_KhachHang.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.cs",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_KhachHang.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAzwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:38:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangBL.cs",
+              "DocumentMoniker": "C:\\vidu\\BLL\\KhachHangBL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHangBL.cs",
+              "ToolTip": "C:\\vidu\\BLL\\KhachHangBL.cs",
+              "RelativeToolTip": "BLL\\KhachHangBL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:20:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DATA.cs",
+              "DocumentMoniker": "C:\\vidu\\DAL\\DATA.cs",
+              "RelativeDocumentMoniker": "DAL\\DATA.cs",
+              "ToolTip": "C:\\vidu\\DAL\\DATA.cs",
+              "RelativeToolTip": "DAL\\DATA.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:07:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "vidu\\Form1.Designer.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Form1.Designer.cs",
+              "RelativeToolTip": "vidu\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:41:47.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Program.cs",
+              "RelativeDocumentMoniker": "vidu\\Program.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Program.cs",
+              "RelativeToolTip": "vidu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:03:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\vidu\\DAL\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "DAL\\Nhanvien.cs",
+              "ToolTip": "C:\\vidu\\DAL\\Nhanvien.cs",
+              "RelativeToolTip": "DAL\\Nhanvien.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwJUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:19:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanvienBL.cs",
+              "DocumentMoniker": "C:\\vidu\\BLL\\NhanvienBL.cs",
+              "RelativeDocumentMoniker": "BLL\\NhanvienBL.cs",
+              "ToolTip": "C:\\vidu\\BLL\\NhanvienBL.cs",
+              "RelativeToolTip": "BLL\\NhanvienBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:21:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_KhachHang.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.cs [Design]",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:06:37.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\vidu\\DAL\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHang.cs",
+              "ToolTip": "C:\\vidu\\DAL\\KhachHang.cs",
+              "RelativeToolTip": "DAL\\KhachHang.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwHkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:13:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_NhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_NhanVien.Designer.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.Designer.cs",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_NhanVien.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:50:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_KhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_KhachHang.Designer.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_KhachHang.Designer.cs",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_KhachHang.Designer.cs",
+              "ViewState": "AgIAAJ4CAAAAAAAAAAAowKMCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:06:41.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.cs",
+              "RelativeDocumentMoniker": "vidu\\Usercontrols\\UC_NhanVien.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Usercontrols\\UC_NhanVien.cs [Design]",
+              "RelativeToolTip": "vidu\\Usercontrols\\UC_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:50:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.cs",
+              "RelativeDocumentMoniker": "vidu\\Forms\\Form_DashBoard.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.cs [Design]",
+              "RelativeToolTip": "vidu\\Forms\\Form_DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:46:05.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_DashBoard.Designer.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "vidu\\Forms\\Form_DashBoard.Designer.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.Designer.cs",
+              "RelativeToolTip": "vidu\\Forms\\Form_DashBoard.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAjwGkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:46:08.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_DashBoard.cs",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.cs",
+              "RelativeDocumentMoniker": "vidu\\Forms\\Form_DashBoard.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Forms\\Form_DashBoard.cs",
+              "RelativeToolTip": "vidu\\Forms\\Form_DashBoard.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAA2wJUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:46:41.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vidu.csproj",
+              "DocumentMoniker": "C:\\vidu\\vidu\\vidu.csproj",
+              "RelativeDocumentMoniker": "vidu\\vidu.csproj",
+              "ToolTip": "C:\\vidu\\vidu\\vidu.csproj",
+              "RelativeToolTip": "vidu\\vidu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T13:44:37.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\vidu\\vidu\\Form1.cs",
+              "RelativeDocumentMoniker": "vidu\\Form1.cs",
+              "ToolTip": "C:\\vidu\\vidu\\Form1.cs [Design]",
+              "RelativeToolTip": "vidu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:22:14.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

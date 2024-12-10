@@ -1,0 +1,15 @@
+C:\vidu\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\vidu\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\vidu\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\vidu\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\vidu\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\vidu\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\vidu\BLL\bin\Debug\net8.0\BLL.dll
+C:\vidu\BLL\bin\Debug\net8.0\BLL.pdb
+C:\vidu\BLL\bin\Debug\net8.0\DAL.dll
+C:\vidu\BLL\bin\Debug\net8.0\DAL.pdb
+C:\vidu\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\vidu\BLL\obj\Debug\net8.0\BLL.dll
+C:\vidu\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\vidu\BLL\obj\Debug\net8.0\BLL.pdb
+C:\vidu\BLL\obj\Debug\net8.0\ref\BLL.dll
